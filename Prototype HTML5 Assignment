@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en"> <!-- Declare the document language -->
+<head>
+    <meta charset="UTF-8"> <!-- Character encoding for the document -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Responsive design -->
+    <title>University of Arkansas at Little Rock</title> <!-- Title of the document -->
+    <meta name="description" content="A brief history and overview of the University of Arkansas at Little Rock."> <!-- Description for search engines -->
+    <meta name="author" content="Lawson Black"> <!-- Author of the document -->
+</head>
+<body>
+    <main>
+        <header>
+            <h1>University of Arkansas at Little Rock</h1>
+        </header>
+        <img src="https://thomaswallace.net/wp-content/uploads/2018/02/ualr.png" alt="University of Arkansas at Little Rock" width="300" height="200">
+        <hr>
+        <section id="history"> 
+            <h2>A Brief History</h2>
+            <p>The University of Arkansas at Little Rock (UA Little Rock) is a public research university in Little Rock, Arkansas. Established as Little Rock Junior College by the Little Rock School District in 1927, the institution became a private four-year university under the name Little Rock University in 1957. It returned to public status in 1969 when it merged with the University of Arkansas System under its present name. The former campus of Little Rock Junior College is now (2019) the campus of Philander Smith University.</p>
+            <p><strong>At 250 acres (100 ha)</strong>, the UA Little Rock campus encompasses more than 56 buildings, including the Center for Nanotechnology Integrative Sciences, the Emerging Analytics Center, the Sequoyah Research Center, and the Ottenheimer Library. Additionally, UA Little Rock houses special learning facilities that include a learning resource center, art galleries, KUAR public radio station, University Television, and a campus-wide wireless network. It is classified among "R2: Doctoral Universities – High research activity".</p>
+        </section> <!-- Closing section: history -->
+       
+        <hr>
+
+        <section id="academics">
+            <h3>Academics</h3>
+            <p>The university features more than 100 undergraduate degrees and 60 graduate degrees, including graduate certificates, master's degrees, and doctorates, through both traditional and online courses. Students attend classes in one of the university's three new colleges and a law school:</p>
+            <ul>
+                <li>College of Business, Health, and Human Services</li>
+                <li>College of Humanities, Arts, Social Sciences, and Education</li>
+                <li>Donaghey College of Science, Technology, Engineering, and Mathematics</li>
+                <li>William H. Bowen School of Law</li>
+            </ul>
+        </section> <!-- Closing section: academics -->
+        
+        <hr>
+
+        <section id="student-life">
+            <h4>Student Life</h4>
+            <p>The <strong>student body composition</strong> as of May 2, 2022:</p>
+            <ul>
+                <li>White: 48%</li>
+                <li>Black: 27%</li>
+                <li>Other: 15%</li>
+                <li>Hispanic: 4%</li>
+                <li>Foreign national: 3%</li>
+                <li>Asian: 2%</li>
+                <li>Native American: 1%</li>
+            </ul>
+            <blockquote>
+                <p>"The diversity of the student body is cool. Racism is lame."</p>
+                <footer>- Lawson Black</footer>
+            </blockquote>
+            <p>The student life at UA Little Rock is characterized by student-run organizations and groups that support various activities. Some services offered include intramural sports, diversity programs, leadership development, and a student-run newspaper. The proximity to downtown Little Rock provides students with recreational, educational, and internship opportunities. As someone once said, <q>The life of a college goer is defined by the food available. Thank god for sandwiches.</q> Truely a smart man said these words.</p>
+        </section> <!-- Closing section: student-life -->
+        <table>
+            <caption>Food Nutritional Information</caption>
+            <thead>
+                <tr>
+                    <th scope="col">Food Item</th>
+                    <th scope="col">Calories</th>
+                    <th scope="col">Protein (g)</th>
+                    <th scope="col">Carbohydrates (g)</th>
+                    <th scope="col">Fat (g)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Apple</td>
+                    <td>95</td>
+                    <td>0.5</td>
+                    <td>25</td>
+                    <td>0.3</td>
+                </tr>
+                <tr>
+                    <td>Instant ramen(Cooked)</td>
+                    <td>125</td>
+                    <td>1</td>
+                    <td>5</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Instant ramen(Uncooked)</td>
+                    <td>150</td>
+                    <td>1</td>
+                    <td>6</td>
+                    <td>0.001</td>
+                </tr>
+                <tr>
+                    <td>Random frozen vegi's</td>
+                    <td>80</td>
+                    <td>0</td>
+                    <td>14</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Gods donut</td>
+                    <td>300</td>
+                    <td>0</td>
+                    <td>200</td>
+                    <td>200</td>
+                </tr>
+                <tr>
+                </tr>
+                    <td>Sad sandwich</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>1</td>
+                    <td>0.01</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <hr>
+
+        <section id="athletics">
+            <h5>Athletics</h5>
+            <p>UA Little Rock's 14 athletic teams are known as the Little Rock Trojans, participating in the Sun Belt Conference. Notably, the university does not sponsor football. The main athletic offices are located in the Jack Stephens Center. Offered sports include:</p>
+            <ul>
+                <li>Baseball: A bat-and-ball game played between two teams of nine players each.</li>
+                <li>Men's and Women's Basketball: A team sport where two teams try to score points by shooting a ball through the opposing team's hoop. </li>
+                <li>Men's and Women's Golf: A sport in which players use clubs to hit a ball into a series of holes on a course in as few strokes as possible.</li>
+                <li>Women's Volleyball: A team sport in which two teams of six players each try to score points by hitting a ball over a net.</li>
+                <li>Women's Soccer: A team sport where two teams of eleven players aim to score goals by getting a ball into the opposing team's net.</li>
+                <li>Women's Swimming/Diving: A competitive water sport involving various swimming styles and diving techniques.</li>
+                <li>Men's and Women's Cross Country: A long-distance running sport where teams compete over natural terrain.</li>
+                <li>Men's and Women's Track and Field (Indoor and Outdoor): A collection of athletic events including running, jumping, and throwing.</li>
+                <li>Men's Wrestling: A combat sport where two competitors wrestle in a ring, using various techniques to gain points or pin the opponent.</li>
+            </ul>
+        </section> <!-- Closing section: athletics -->
+
+        <hr>
+
+        <nav>
+            <ul>
+                <li><a href="index.html" title="Go to Home">Home</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/University_of_Arkansas_at_Little_Rock" title="About UALR" target="_blank">About</a></li>
+                <li><a href="https://example.com" title="Visit UALR">UALR</a></li>
+                <li><a href="mailto:example@example.com" title="Contact Us">Contact</a></li>
+            </ul>
+        </nav>
+
+        <footer>
+            <h6>© 2024 <strong>Lawson Black</strong> | <a href="mailto:example@example.com">Email Me</a> | <a href="#top">Back to Top</a></h6>
+        </footer>
+    </main>
+</body>
+</html>
